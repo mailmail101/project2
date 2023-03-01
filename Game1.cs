@@ -7,9 +7,8 @@ namespace Project2;
 public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
-    private SpriteFont font;
-    private int score = 0;
     private SpriteBatch _spriteBatch;
+    private SpriteFont font;
     private Texture2D _blackSquare;
     private Texture2D _whitePiece;
     private Texture2D _blackPiece;
@@ -39,8 +38,7 @@ public class Game1 : Game
         _blackPiece = Content.Load<Texture2D>("BlackPiece");
         _blackSquare = Content.Load<Texture2D>("BlackSquare");
         _whitePiece = Content.Load<Texture2D>("WhitePiece");
-        font = Content.Load<SpriteFont>("Arial");
-
+        font = Content.Load<SpriteFont>("FreeSans");
         // TODO: use this.Content to load your game content here
     }
 
@@ -82,7 +80,7 @@ public class Game1 : Game
             }
            
         }
-        _spriteBatch.DrawString(font, "Start Game", new Vector2(100, 250), Color.Black);
+         _spriteBatch.DrawString(font, "Start Game", new Vector2(230, 280), Color.DarkRed);
         _spriteBatch.End();
 
         // TODO: Add your drawing code here

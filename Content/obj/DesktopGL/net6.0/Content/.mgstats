@@ -1,4 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "/home/liam/Desktop/ICS-4U/project2/Content/BlackPiece.png","/home/liam/Desktop/ICS-4U/project2/Content/bin/DesktopGL/Content/BlackPiece.xnb","TextureProcessor","Texture2DContent",660,1685,0.1315449
 "/home/liam/Desktop/ICS-4U/project2/Content/BlackSquare.png","/home/liam/Desktop/ICS-4U/project2/Content/bin/DesktopGL/Content/BlackSquare.xnb","TextureProcessor","Texture2DContent",4850,1685,0.0030748
+"/home/liam/Desktop/ICS-4U/project2/Content/FreeSans.spritefont","/home/liam/Desktop/ICS-4U/project2/Content/bin/DesktopGL/Content/FreeSans.xnb","FontDescriptionProcessor","SpriteFontContent",2015,70687,0.5153339
 "/home/liam/Desktop/ICS-4U/project2/Content/WhitePiece.png","/home/liam/Desktop/ICS-4U/project2/Content/bin/DesktopGL/Content/WhitePiece.xnb","TextureProcessor","Texture2DContent",661,1685,0.0022485

@@ -23,3 +23,8 @@
 /home/liam/Desktop/ICS-4U/project2/obj/Debug/net6.0/ref/project2.dll
 /home/liam/Desktop/ICS-4U/project2/obj/Debug/net6.0/project2.pdb
 /home/liam/Desktop/ICS-4U/project2/obj/Debug/net6.0/project2.genruntimeconfig.cache
+/home/liam/Desktop/ICS-4U/project2/bin/Debug/net6.0/Content/BlackPiece.xnb
+/home/liam/Desktop/ICS-4U/project2/bin/Debug/net6.0/Content/BlackSquare.xnb
+/home/liam/Desktop/ICS-4U/project2/bin/Debug/net6.0/Content/WhitePiece.xnb
+/home/liam/Desktop/ICS-4U/project2/bin/Debug/net6.0/Content/Arial.xnb
+/home/liam/Desktop/ICS-4U/project2/bin/Debug/net6.0/Content/FreeSans.xnb

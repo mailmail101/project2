@@ -6,9 +6,11 @@
   <SourceFiles>
     <File>/home/liam/Desktop/ICS-4U/project2/Content/BlackPiece.png</File>
     <File>/home/liam/Desktop/ICS-4U/project2/Content/BlackSquare.png</File>
+    <File>/home/liam/Desktop/ICS-4U/project2/Content/FreeSans.spritefont</File>
     <File>/home/liam/Desktop/ICS-4U/project2/Content/WhitePiece.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
